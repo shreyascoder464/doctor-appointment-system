@@ -53,7 +53,7 @@ prescripto-full-stack/
 
 1️⃣ **Clone the Repository**  
 bash
-git clone https://github.com/yourusername/doctor-appointment-system.git
+git clone https://github.com/shreyascoder464/doctor-appointment-system.git
 cd doctor-appointment-system
 2️⃣ Install Dependencies
 
